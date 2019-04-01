@@ -1,0 +1,13 @@
+c:\users\ic012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe.config
+c:\users\ic012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+c:\users\ic012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.pdb
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.ProjectInstaller.resources
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.csproj.GenerateResource.cache
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.csproj.CoreCompileInputs.cache
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.exe
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.pdb
+c:\users\ic012382\source\repos\sampleService\sampleService\bin\Debug\ConsoleApp1.exe
+c:\users\ic012382\source\repos\sampleService\sampleService\bin\Debug\ConsoleApp1.pdb
+c:\users\ic012382\source\repos\sampleService\sampleService\bin\Debug\ConsoleApp1.exe.config
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.csprojResolveAssemblyReference.cache
+c:\users\ic012382\source\repos\sampleService\sampleService\obj\Debug\sampleService.csproj.CopyComplete

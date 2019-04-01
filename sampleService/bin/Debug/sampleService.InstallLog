@@ -1,0 +1,69 @@
+﻿Installing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Installing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Uninstalling assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.InstallLog
+   assemblypath = C:\Users\IC012382\source\repos\sampleService\sampleService\bin\Debug\sampleService.exe
